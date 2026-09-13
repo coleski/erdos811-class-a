@@ -4,6 +4,8 @@ This package proves a structural reduction for the independently posed
 two-disjoint-rainbow-triangles part of
 [Erdős problem #811](https://www.erdosproblems.com/811).
 
+Jig statement: https://jig.so/p/353?s=19
+
 It does **not** solve the original question.
 
 ## The result
@@ -54,4 +56,3 @@ separate Codex agents. That is adversarial internal review, not external human
 peer review. The package is a partial-progress result and makes no claim that
 Erdős #811 is resolved. See `SOURCE-RECHECK-20260911.md` and `TARGET.md` for
 the bounded source audit and credited prior ingredients.
-
