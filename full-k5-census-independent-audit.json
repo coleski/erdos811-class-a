@@ -1,0 +1,12 @@
+{
+  "verified": true,
+  "independent_K4_coverage": 12936,
+  "labeled_rooted_flags": 77616,
+  "rooted_classes": 282,
+  "K5_orbits": 551,
+  "K5_labeled_patterns": 2607696,
+  "all_seed_extensions": 32400,
+  "allowed_seeds": 5306,
+  "all_marginals_and_all_flag_coefficients": true,
+  "seconds": 7.559068291971926
+}
